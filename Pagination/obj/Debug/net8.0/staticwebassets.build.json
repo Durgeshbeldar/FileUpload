@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "3rQY1wsAGD/JaqrUeYvzGqznVrs1nNPQkpFsQuksnKk=",
+  "Source": "Pagination",
+  "BasePath": "_content/Pagination",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pagination\\wwwroot",
+      "Source": "Pagination",
+      "ContentRoot": "S:\\Office Work\\Monocept Training\\Assignments\\Pagination\\Pagination\\wwwroot\\",
+      "BasePath": "_content/Pagination",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "S:\\Office Work\\Monocept Training\\Assignments\\Pagination\\Pagination\\wwwroot\\images\\6168e3cf-91fc-47b3-b3ea-f6c77ab15c58.jpg",
+      "SourceId": "Pagination",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\Office Work\\Monocept Training\\Assignments\\Pagination\\Pagination\\wwwroot\\",
+      "BasePath": "_content/Pagination",
+      "RelativePath": "images/6168e3cf-91fc-47b3-b3ea-f6c77ab15c58.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6168e3cf-91fc-47b3-b3ea-f6c77ab15c58.jpg"
+    }
+  ]
+}

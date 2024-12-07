@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "S:\\Office Work\\Monocept Training\\Assignments\\Pagination\\Pagination\\wwwroot\\images\\6168e3cf-91fc-47b3-b3ea-f6c77ab15c58.jpg",
+      "PackagePath": "staticwebassets\\images\\6168e3cf-91fc-47b3-b3ea-f6c77ab15c58.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pagination.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pagination.props",
+      "PackagePath": "build\\Pagination.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pagination.props",
+      "PackagePath": "buildMultiTargeting\\Pagination.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pagination.props",
+      "PackagePath": "buildTransitive\\Pagination.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
